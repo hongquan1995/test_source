@@ -1,8 +1,8 @@
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
-  * File Name          : freertos.c
-  * Description        : Code for freertos applications
+  * File Name          : freertos.c 
+  * Description        : Code for freertos applications abcxyzgh test with sourcetree
   ******************************************************************************
   * @attention
   *
@@ -27,17 +27,6 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#include "usart.h"
-#include "variables.h"
-#include "Lora.h"
-#include "sim900.h"
-#include "onchipflash.h"
-#include "cat24mxx.h"
-#include "atm90.h"	
-#include "Rs485.h"	
-#include "GLCD.h"	
-#include "Display.h"    
-#include "GLCD192x64.h"   
 
 #include "SX1278.h"    
 /* USER CODE END Includes */
