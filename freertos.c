@@ -6,7 +6,7 @@
   ******************************************************************************
   * @attention
   *
-  * <h2><center>&copy; Copyright (c) 2019 STMicroelectronics.
+  * <h2><center>&copy; Copyright (c) 2022 XHSC.
   * All rights reserved.</center></h2>
   *
   * This software component is licensed by ST under Ultimate Liberty license
@@ -14,6 +14,7 @@
   * the License. You may obtain a copy of the License at:
   *                             www.st.com/SLA0044
   *
+  * Test code with git 
   ******************************************************************************
   */
 /* USER CODE END Header */
