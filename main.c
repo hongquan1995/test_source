@@ -127,9 +127,9 @@ int main(void)
     /* USER CODE BEGIN 3 */
 		Sim_work();
 		mqtt_sendSV();
-		//Packet_Rtc_SendToServer(arrtime_rtc, Time_send_sv);
+		Packet_Rtc_SendToServer(arrtime_rtc, Time_send_sv);
 		// xu ly THB
-//		fncReceive_DataServer();
+		fncReceive_DataServer();
 
   }
   /* USER CODE END 3 */
