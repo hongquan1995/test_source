@@ -5,7 +5,7 @@
   */
 void MX_FREERTOS_Init(void) {
   /* USER CODE BEGIN Init */
-       
+  /*QuanDH6 */    
   /* USER CODE END Init */
 
   /* USER CODE BEGIN RTOS_MUTEX */
